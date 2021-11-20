@@ -1,0 +1,6 @@
+#garden {
+  display: grid;
+
+grid-template-columns: 75px 9fr 6fr
+  grid-template-rows: 100%;
+}
